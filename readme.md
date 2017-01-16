@@ -4,6 +4,8 @@ JumpBoxVR is a ping pong drinking game in VR.
 
 Submitted by: Yu-Cheng Lin
 
+Platform: 3Glasses VR
+
 ## Notes
 
 This project does not include any resources(assets). This uploaded version is just for code review.
@@ -30,7 +32,7 @@ There is one folders: SceneV25(LOW Q)
 
 SceneV25(LOW Q) is an Unity project without any texture resources(assets) and this is just for code review.
 
-The link below is an EXE file built by Unity. You can download it and run it on windows platform.
+The link below is an EXE file built by Unity. You can download it and run it on windows platform (You will need 3glasses VR).
 
 https://drive.google.com/file/d/0Bx_urvQnkUn_ZktuVlpOTFZ2dnM/view?usp=sharing
 
