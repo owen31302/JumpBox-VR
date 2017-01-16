@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 https://youtu.be/mopH0UaLcos
 
-<img src='http://i.imgur.com/4nijViS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/owen31302/JumpBox-VR/blob/master/JumpBoxVRDemo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
