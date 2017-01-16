@@ -1,0 +1,30 @@
+iOS
+竖屏游戏
+Mobile  => 640x960
+iPhone 3.5/R  =>640x960
+iPhone 4/R  =>1080x1920
+iPhone 4.7/R =>1080x1920
+iPhone 5.5/R =>1080x1920
+iPhone 5.5L/R =>1920x1080
+iPad P =>768x1024
+iPad L =>1024x768
+iPad P/R =>768x1024
+iPad L/R =>1024x768
+横屏游戏：
+Mobile  => 960x640
+iPhone 3.5/R  =>960x640
+iPhone 4/R  =>1920x1080
+iPhone 4.7/R =>1920x1080
+iPhone 5.5/R =>1920x1080
+iPhone 5.5L/R =>1920x1080
+iPad P =>768x1024
+iPad L =>1024x768
+iPad P/R =>768x1024
+iPad L/R =>1024x768
+
+Android
+竖屏
+And_P
+
+横屏
+And_L

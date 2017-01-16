@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Externals\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\HighlighterController.cs">
+    <Files>
+      <File FileName="Assets\Externals\Highlighting System\HighlightingSystemDemo\Scripts\Advanced\HighlighterController.cs" Line="78" Column="38" />
+      <File FileName="Assets\Script\BallLevel1.cs" Line="37" Column="36" />
+      <File FileName="Assets\Script\PlayBandTest.cs" Line="380" Column="18" />
+      <File FileName="Assets\Boxhightmanager.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

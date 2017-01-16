@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\LevelManager.cs">
+    <Files>
+      <File FileName="Assets\Script\LevelManager.cs" Line="166" Column="42" />
+      <File FileName="Assets\Script\BallLevel5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayBandTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BallLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mark.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CreatBall.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

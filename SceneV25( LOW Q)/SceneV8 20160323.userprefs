@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayBandTest.cs">
+    <Files>
+      <File FileName="Assets\Script\PlayBandTest.cs" Line="531" Column="10" />
+      <File FileName="Assets\Script\Pingpongpool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mark.cs" Line="33" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
