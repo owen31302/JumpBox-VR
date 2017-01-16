@@ -30,7 +30,7 @@ There is one folders: SceneV25(LOW Q)
 
 SceneV25(LOW Q) is an Unity project without any texture resources(assets) and this is just for code review.
 
-The exe file is a exe file built by Unity. You can run it on windows platform. You can download here.
+The link below is an EXE file built by Unity. You can download it and run it on windows platform.
 
 https://drive.google.com/file/d/0Bx_urvQnkUn_ZktuVlpOTFZ2dnM/view?usp=sharing
 
