@@ -33,3 +33,7 @@ SceneV25(LOW Q) is an Unity project without any texture resources(assets) and th
 The link below is an EXE file built by Unity. You can download it and run it on windows platform.
 
 https://drive.google.com/file/d/0Bx_urvQnkUn_ZktuVlpOTFZ2dnM/view?usp=sharing
+
+## License
+
+    Copyright 2017 Yu-Cheng Lin
